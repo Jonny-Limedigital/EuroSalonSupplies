@@ -1,2 +1,2 @@
 # EuroSalonSupplies
-Website Development for Euro Salon Supplies
+Wordpress Website Development for Euro Salon Supplies
