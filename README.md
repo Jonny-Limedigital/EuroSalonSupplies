@@ -1,3 +1,4 @@
+
 # A Wordpress + WooCommerce website development project for Euro Salon Supplies By [Limedigital] 👍(https://limedigital.co.nz/)
 
 ##Trello Card
@@ -9,5 +10,4 @@
 - [ ] Review the project and ready for go-live
 - [ ] Publish 1.0
 - [ ] Prepare for next stage ...
-
 
