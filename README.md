@@ -1,6 +1,6 @@
 
 # A Wordpress + WooCommerce website development project for Euro Salon Supplies 
-Developing By [Limedigital](https://limedigital.co.nz/)👍
+
 
 ## Trello Card
 <blockquote class="trello-card"><a href="https:&#x2F;&#x2F;trello.com&#x2F;c&#x2F;jmSK1AOq&#x2F;377-ess">ESS</a></blockquote>
